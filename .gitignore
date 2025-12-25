@@ -1,3 +1,11 @@
 .venv
 .env
 pasosEnV.txt
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+output/
+
+app.py
